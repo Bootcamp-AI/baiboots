@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "radiosantacruz-icrx",
+  "private_key_id": "69d07db0e00604d3c2b5ec9758052bcd312d1ffd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyd6NXCt1X5nQI\nByyBMW38IYegtWBFSeKETineK1GDocQyzQs7/ihlttTdoMFC+0Bb1pdLFgGRjROT\nVEhgqnkXJmo881GYoE4iMiKJIs3rbckirot86R9utlBytWHp+9psMcYz9esZ3qRG\n0v0srSNfpc1fA8kc8ktk+3mHRD0lUYK3FSlQWQerLH5KWD+TCsQvTvAb9WsqvQ1O\nnjfqIWshgJPvThvkPgR4XRk7PiENnHRa/QRWfZza5f+5pIZLtUM7MnXTs8D2EnYQ\nK72s+ArS4IYU31J99HkpArh4eOpLQ/701eET4yqFJ+5k1WnHD523oPVZouODikOv\nYJU7Ya5zAgMBAAECggEAEoimJ+Xy8qv2JNdJ4ejWOTbqNOBhLRDtOzw60N3Cy17D\nV1s/7W0JmPaRyKpnJ6OcHW19rMiORSVXgRdhpNhPVv4gTlAeizEqrBZ0y7UXmXl/\nR+DEj6ZOI1s/o4n+ryP+nPnWUZMaZUdf3BMRQ9B/OfGoEFP+UMlA1y3egxOtHfDa\ndbiis4ieBSf1y73BXKeM9YYr991bt48SJlYlmPrYrXmYtZgcFgQFVrnlQi75Jnoo\nH4FiMx2hdnqH3akLhAc4SJ4Afcw0bmHAnoOxRuPmVzVpjNdLK9IY4Ea6d6cUO/HJ\no9IsI5MyuWuCwQ4HMhhmFY71JVEB6cfvOYu2vobacQKBgQDtISC/bfjrHip6nKs4\ncdFHEIN+cwj9aVK2RzmPYYv0RKu5A11Tk88v4+VtT7p2WusRFdduK2BcVhuetBs7\noNmVvYdPJyJDNhK1jlwRkM+yhGb/NNqHjhFhjQ0OrRq+04p8eeKxTHosXkYb81yb\n6lQnCOcfYHPC46HeCwq1/5CI3wKBgQDAq229dLgRzUDLMZEm74o4/67gZMrklLNS\nYxWr853Akt9ODO9KOk/cYCNEQNBZUoCxXoRid9paUVXDVkvv08EcTrc4lflMAJzd\ndbAVofGIaR1YJiypuD7+i1ljJCdVQXwQcyIhWD+bNEOJTPT+5/TbCbZZT4oullwP\nOY1NzzQI7QKBgQC0rWw1T8a85wQ43ky7ukVaH2QBogb0hx6lkklyTUIFAZnSY5Tl\njJbuB3gVPQ13BrlbEEhQQi6uzFFJMDQbz+hZ5spFbiz2BypkOa8/FxaaD7YmuA/V\n/1KRAJc1WoIpaid3xqsKqpngWoiS3W/vwLET+P2Zc7Vghm8cL0+e8rYfAwKBgD3r\nWhtXFYjzE+25glKnDR8AXO1Utzf66h6CJYbbhklLamSlF4odb2j9pJfc1JjAQQe/\nvn/+0LfSB+P9Ke5reVZlndCbskDQuZkap3psTzltvraDnjr1MZmQoyuPhOyLXRnU\nRpW8zMROaZ4Ik3wQg8qZNndBbsFGJVPnRRhKjQiJAoGBAL9DcKYJpwxoHHbaZW4L\ncUzU0xWsLffewnUkbVTCg5iucO0wm/1XgdyuAWd8tKyrTnNyFo3Zn7NmcSLCr5Ju\n4VSe+C588BSzPVHMdJy7EEZm1NuohgqeL+Ij6CZebac3+wwaKSt+OyD9iTeUYPPa\n9ieUSo0XtxGTtOTyoqecIlb4\n-----END PRIVATE KEY-----\n",
+  "client_email": "santacruz@radiosantacruz-icrx.iam.gserviceaccount.com",
+  "client_id": "102807482198822218958",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/santacruz%40radiosantacruz-icrx.iam.gserviceaccount.com"
+}
